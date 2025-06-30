@@ -1,1 +1,1 @@
-![Shaw Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshaw01&show_icons=true&theme=radical)
+![Shaw Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshaw01&show_icons=true&theme=transparent)
