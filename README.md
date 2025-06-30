@@ -1,2 +1,1 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrshaw01&theme=vue-dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshaw01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Shaw Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshaw01&show_icons=true&theme=radical)
